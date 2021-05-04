@@ -45,8 +45,9 @@ int main() {
 
     C3 = C3.addReal(C1, C2);
     C3 = C3.addComp(C1, C2);
-    cout<<"\nSum of complex number : " << C3.real << " + i" << C3.imaginary;
-    cout << "\nMade by: Mohak Sharma, 12-CSEA-19\n\n";
+    cout<<"Sum of complex number : " << C3.real << " + i" << C3.imaginary<<endl;
+    cout<<"Made by: Yash Atrey"<<endl;
+    cout<<"Roll no : 109-CSEA-19"<<endl;
 
     return 0;
 }

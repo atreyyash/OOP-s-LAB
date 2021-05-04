@@ -23,6 +23,7 @@ int main(){
     N1.input();
     greatest(N1);
 
-    cout << "\nMade by: Mohak Sharma, 12-CSEA-19\n\n";
+    cout<<endl<<"Made by: Yash Atrey"<<endl;
+    cout<<"Roll no : 109-CSEA-19"<<endl;
     return 0;
 }

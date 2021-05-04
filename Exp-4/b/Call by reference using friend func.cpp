@@ -33,5 +33,8 @@ int main(){
 	a.modify(b);
 	cout<<"Modified Values (+10)\n";
 	b.print();
+	cout<<endl<<"Made By : Yash Atrey"<<endl;
+	cout<<"Roll no : 109-CSEA-19"<<endl;
+
 	return 0;
 }
