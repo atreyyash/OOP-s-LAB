@@ -56,7 +56,7 @@ public:
         tot = m + p + c;
         avg = tot / 3.0;
         cout<<"Total Marks : "<<tot<<endl;
-        cout<<"Average : "<<2avg<<endl;
+        cout<<"Average : "<<avg<<endl;
         if(avg+smarks>100)
         {
             cout<<"Average+Sports : 100"<<endl;

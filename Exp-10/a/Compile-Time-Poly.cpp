@@ -14,10 +14,10 @@ void test(char const *ch) {
 }
 
 int main() {
-     cout<<"\t\t\t\t\t\tExperiment-10a"<<endl;
+    cout<<"\t\t\t\t\t\tExperiment-10a"<<endl;
     cout<<"\t\t\t\t\t\tMade By : Yash Atrey"<<endl;
-    cout<<"\t\t\t\t\t\tRoll No. : 109-CSEA-19"<<endlSSS;
-    employee e1(101, 20000.0), e2(102, 25000.0);
+    cout<<"\t\t\t\t\t\tRoll No. : 109-CSEA-19"<<endl;
+
 	test(15);
 	test(15.0);
 	test("Fifteen");

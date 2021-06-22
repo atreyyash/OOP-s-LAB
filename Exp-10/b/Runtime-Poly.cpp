@@ -18,6 +18,10 @@ public:
 };
 
 int main(){
+    cout<<"\t\t\t\t\t\tExperiment-10b"<<endl;
+    cout<<"\t\t\t\t\t\tMade By : Yash Atrey"<<endl;
+    cout<<"\t\t\t\t\t\tRoll No. : 109-CSEA-19"<<endl;
+
     Alive a;
     Dead d;
     a.breathe();

@@ -26,8 +26,8 @@ public:
 int main() {
      cout<<"\t\t\t\t\t\tExperiment-9b"<<endl;
     cout<<"\t\t\t\t\t\tMade By : Yash Atrey"<<endl;
-    cout<<"\t\t\t\t\t\tRoll No. : 109-CSEA-19"<<endlSSS;
-    employee e1(101, 20000.0), e2(102, 25000.0);
+    cout<<"\t\t\t\t\t\tRoll No. : 109-CSEA-19"<<endl;
+
     overloading obj1, obj2, result;
     int a, b;
 
